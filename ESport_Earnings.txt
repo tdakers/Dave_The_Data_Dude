@@ -1,0 +1,44 @@
+Game|Earnings|Player_Count|Tournament_Count
+PLAYERUNKNOWN'S BATTLEGROUNDS Mobile|3663792.75|133 Players|4 Tournaments
+Dota 2|3072079.4|517 Players|27 Tournaments
+Rainbow Six Siege|3000000.0|100 Players|1 Tournament
+Counter-Strike: Global Offensive|2403539.38|1078 Players|68 Tournaments
+StarCraft II|699117.71|89 Players|33 Tournaments
+Rocket League|670000.0|283 Players|16 Tournaments
+Arena of Valor|578700.42|56 Players|2 Tournaments
+Call of Duty: Vanguard|500000.0|32 Players|1 Tournament
+League of Legends: Wild Rift|355495.0|40 Players|2 Tournaments
+Hearthstone|250000.0|213 Players|1 Tournament
+Fortnite|180000.0|20 Players|2 Tournaments
+PLAYERUNKNOWN’S BATTLEGROUNDS|165776.0|92 Players|4 Tournaments
+League of Legends|154497.0|18 Players|3 Tournaments
+Brawlhalla|151000.0|132 Players|13 Tournaments
+chess24|140750.0|16 Players|1 Tournament
+rFactor 2|125000.0|104 Players|2 Tournaments
+Chess.com|110200.0|66 Players|16 Tournaments
+FIFA Online 4|100000.0|26 Players|1 Tournament
+Age of Empires IV|74333.5|125 Players|43 Tournaments
+Street Fighter V: Champion Edition|69442.56|12 Players|1 Tournament
+VALORANT|64392.2|51 Players|4 Tournaments
+Lichess|53615.85|14 Players|4 Tournaments
+Age of Empires II|51400.9|142 Players|50 Tournaments
+Call of Duty: Warzone|50000.0|25 Players|4 Tournaments
+StarCraft: Brood War|45235.1|40 Players|4 Tournaments
+Crab Game|45200.0|18 Players|2 Tournaments
+WarCraft III: Reforged|40350.0|14 Players|4 Tournaments
+Super Smash Bros. Ultimate|37600.99|83 Players|16 Tournaments
+iRacing.com|33400.0|19 Players|3 Tournaments
+Super Smash Bros. Melee|31501.0|22 Players|3 Tournaments
+Minecraft|15000.0|1 Player|1 Tournament
+Trackmania (2020)|13813.3|79 Players|28 Tournaments
+Diabotical|12398.75|65 Players|35 Tournaments
+Guilty Gear -STRIVE-|7340.27|8 Players|1 Tournament
+Tekken 7|7000.0|11 Players|2 Tournaments
+osu!|3841.94|28 Players|3 Tournaments
+CrossFire|2090.5|20 Players|1 Tournament
+Age of Empires Online|373.0|7 Players|2 Tournaments
+F1 2021|339.0|3 Players|1 Tournament
+Age of Empires III|310.0|7 Players|2 Tournaments
+Age of Mythology|150.0|4 Players|1 Tournament
+Auto Chess|100.0|1 Player|1 Tournament
+Artifact Classic|20.0|1 Player|1 Tournament
