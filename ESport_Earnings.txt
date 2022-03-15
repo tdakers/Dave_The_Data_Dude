@@ -1,6 +1,6 @@
 Game|Earnings|Player_Count|Tournament_Count
 PLAYERUNKNOWN'S BATTLEGROUNDS Mobile|3663792.75|133 Players|4 Tournaments
-Dota 2|3072079.4|517 Players|27 Tournaments
+Dota 2|3072079.4|517 Players|
 Rainbow Six Siege|3000000.0|100 Players|1 Tournament
 Counter-Strike: Global Offensive|2403539.38|1078 Players|68 Tournaments
 StarCraft II|699117.71|89 Players|33 Tournaments
